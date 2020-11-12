@@ -1,0 +1,57 @@
+HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction,HST-LSTM
+DeepSD: Supply-demand prediction for online car-hailing services using deep neural networks,DeepSD
+Long short-term memory neural network for traffic speed prediction using remote microwave sensor data,LSTM
+Deep spatio-temporal residual networks for citywide crowd flows prediction,ST-ResNet
+Traffic speed prediction and congestion source exploration: A deep learning method,eRCNN
+Diffusion convolutional recurrent neural network: Data-driven traffic forecasting,DCRNN
+RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework,RiskOracle
+Deep architecture for traffic flow prediction: deep belief networks with multitask learning,DBN
+Short-term traffic flow prediction with Conv-LSTM,ConvLSTM
+Short-term traffic flow forecasting with spatial-temporal correlation in a hybrid deep learning framework,CLTFP
+Attention based spatial-temporal graph convolutional networks for traffic flow forecasting,ASTGCN
+Dynamic spatial-temporal graph convolutional neural networks for traffic forecasting,DGCNN
+DNN-based prediction model for spatio-temporal data,DeepST
+Exploiting spatio-temporal correlations with multiple 3d convolutional neural networks for citywide vehicle flow prediction,MST3D
+Using LSTM and GRU neural network methods for traffic flow prediction,GRU
+Revisiting spatial-temporal similarity: A deep learning framework for traffic prediction,STDN
+GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction,GSTNet
+Predicting station-level short-term passenger flow in a citywide metro network using spatiotemporal graph convolutional neural networks,STGCNNmetro
+Periodic-CRN: A Convolutional Recurrent Model for Crowd Density Prediction with Recurring Periodic Patterns,Periodic-CRN
+Deep spatial–temporal 3D convolutional neural networks for traffic data forecasting,ST-3DNet
+Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting,STSGCN
+Contextualized spatial–temporal network for taxi origin-destination demand prediction,CSTN
+Flow prediction in spatio-temporal networks based on multitask deep learning,MDL
+Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network,MPGCN
+Gated Residual Recurrent Graph Neural Networks for Traffic Prediction,MRes-RGNN
+Deep bidirectional and unidirectional LSTM recurrent neural network for network-wide traffic speed prediction,BiLSTM
+Spatiotemporal recurrent convolutional networks for traffic prediction in transportation networks,SRCNs
+Lc-rnn: A deep learning model for traffic speed prediction,lc-rnn
+T-gcn: A temporal graph convolutional network for traffic prediction,T-gcn
+Deep sequence learning with auxiliary information for traffic prediction,BaiduTraffic
+Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting,STGCN
+Zest: a hybrid model on predicting passenger demand for chauffeured car service,Zest
+Forecasting taxi demands with fully convolutional networks and temporal guided embedding,TGNet
+Deep multi-view spatial-temporal network for taxi demand prediction,DMVST-Net
+Spatiotemporal multi-graph convolution network for ride-hailing demand forecasting,ST-MGCN
+Predicting multi-step citywide passenger demands using attention-based neural networks,AttConvLSTM
+Stg2seq: Spatial-temporal graph to sequence model for multi-step passenger demand forecasting,Stg2seq
+Hexagon-based convolutional neural network for supply-demand forecasting of ride-sourcing services,H-CNN
+Origin-destination matrix prediction via graph convolution: a new perspective of passenger demand modeling,GEML
+Multi-task Representation Learning for Travel Time Estimation,MURAT
+Deep multi-scale convolutional lstm network for travel demand and origin-destination predictions,MultiConvLSTM
+When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks,DeepTTE
+Deeptravel: a neural network based travel time estimation model with auxiliary supervision,Deeptravel
+Hetero-convlstm: A deep learning approach to traffic accident prediction on heterogeneous spatio-temporal data,Hetero-convlstm
+Sdcae: Stack denoising convolutional autoencoder model for accident risk prediction via traffic big data,Sdcae
+A spatiotemporal deep learning approach for citywide short-term crash risk prediction with multi-source data,STCL-Net
+Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level,Deeptransport
+Gman: A graph multi-attention network for traffic prediction,Gman
+Graph wavenet for deep spatial-temporal graph modeling,Graph-WaveNet
+Urban traffic prediction from spatio-temporal data using deep meta learning,ST-MetaNet
+Geoman: Multilevel attention networks for geo-sensory time series prediction,Geoman
+Transfer Knowledge between Cities,FLORAL
+Deep Transfer Learning for Intelligent Cellular Traffic Prediction Based on Cross-Domain Big Data,STCNet
+Cross-City Transfer Learning for Deep Spatio-Temporal Prediction,RegionTrans
+Traffic flow prediction with big data: a deep learning approach,SAE
+Unified Neural Network Approach for Estimating Travel Time and Distance for a Taxi Trip,ST-NN
+Learning from multiple cities: A meta-learning approach for spatial-temporal prediction,MetaST
